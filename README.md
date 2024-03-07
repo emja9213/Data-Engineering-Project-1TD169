@@ -5,6 +5,10 @@ Our selected dataset is the set of Reddit comments recommended in the project in
 
 (description: https://github.com/webis-de/webis-tldr-17-corpus?tab=readme-ov-file)
 
+Download to instance using:
+
+`wget "https://zenodo.org/records/1043504/files/corpus-webis-tldr-17.zip?download=1"`
+
 ## TODO
 First:
 - Set up Spark cluster(s). 
